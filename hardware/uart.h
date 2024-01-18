@@ -1,8 +1,8 @@
 #ifndef __REF_UART_H__
 #define __REF_UART_H__
 
-#include "ref_types.h"
-#include "ref_paddr.h"
+#include "types.h"
+#include "paddr.h"
 
 #define UART_REGS(i)			((void *)(UART0_OFFSET + (i) * UART0_SIZE))
 

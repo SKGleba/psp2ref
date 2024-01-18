@@ -1,8 +1,8 @@
 #ifndef __REF_PERV_H__
 #define __REF_PERV_H__
 
-#include "ref_types.h"
-#include "ref_paddr.h"
+#include "types.h"
+#include "paddr.h"
 
 #define PERV_CONTROLLER_SIZE 0x1000
 #define PERV_GET_CTRL(ctrl) (PERVASIVE_OFFSET + (ctrl * PERV_CONTROLLER_SIZE))

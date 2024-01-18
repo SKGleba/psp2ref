@@ -1,7 +1,7 @@
 #ifndef __REF_CRYPTO_H__
 #define __REF_CRYPTO_H__
 
-#include "ref_types.h"
+#include "types.h"
 
 enum CRYPTO_BIGMAC_FUNCS {
     CRYPTO_BIGMAC_FUNC_MEMCPY,

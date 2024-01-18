@@ -1,8 +1,8 @@
 #ifndef __REF_XBAR_H__
 #define __REF_XBAR_H__
 
-#include "ref_types.h"
-#include "ref_paddr.h"
+#include "types.h"
+#include "paddr.h"
 
 #define XBAR_FAMILY_SIZE 0x10000
 #define XBAR_DEVICE_SIZE 0x400

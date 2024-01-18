@@ -1,7 +1,7 @@
 #ifndef __REF_MAIKA_H__
 #define __REF_MAIKA_H__
 
-#include "ref_types.h"
+#include "types.h"
 
 #define reg volatile uint32_t
 

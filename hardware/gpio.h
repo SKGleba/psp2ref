@@ -1,8 +1,8 @@
 #ifndef __REF_GPIO_H__
 #define __REF_GPIO_H__
 
-#include "ref_types.h"
-#include "ref_paddr.h"
+#include "types.h"
+#include "paddr.h"
 
 enum GPIO_PORT_MODES {
     GPIO_PORT_MODE_INPUT = 0,
